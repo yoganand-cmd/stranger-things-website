@@ -1,16 +1,69 @@
-# React + Vite
+````md
+# STRANGER THINGS — Upside Down Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cinematic Stranger Things inspired interactive website built using React, Vite, Framer Motion, and custom CSS animations.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 https://stranger-things-website-rho.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- 🌑 Upside Down transition effect
+- ⚡ VHS glitch animation
+- 🌫 Animated red fog atmosphere
+- 🔥 Mouse reveal lighting effect
+- 🎵 Dual background music system
+- 🎬 Cinematic animations with Framer Motion
+- 📱 Responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+- React
+- Vite
+- Framer Motion
+- CSS3 Animations
+- JavaScript
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yoganand-cmd/stranger-things-website.git
+````
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+---
+
+
+## Screenshots
+
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/c98e6057-8bc0-4b6a-a698-571dc4c66b4d" />
+
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/a67cb94d-ae53-44b8-8d9e-fb00d53b3db7" />
+
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/a14ff3b9-66b5-41f9-9285-85b854251763" />
+
+
+Made with ❤️ by Yoganand
+
+```
+```
