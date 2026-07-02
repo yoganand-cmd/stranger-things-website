@@ -1,4 +1,3 @@
-
 # STRANGER THINGS — Upside Down Experience 
 
 A cinematic Stranger Things inspired interactive website built using React, Vite, Framer Motion, and custom CSS animations.
